@@ -6,8 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<f:view>
-
-</f:view>
+ Hello world
 </body>
 </html>
